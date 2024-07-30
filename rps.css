@@ -1,0 +1,100 @@
+#body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#div {
+    height: 500px;
+    width: 1000px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#div1h1 {
+    color: rgb(70, 79, 203);
+}
+
+#div2p {
+    color: rgb(70, 79, 203);
+}
+
+#div3h2 {
+    color: rgb(70, 79, 203);
+}
+
+#div4 {
+    width: 350px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+
+}
+
+#div43 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#div45 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#div41 {
+    color: rgb(70, 79, 203);
+}
+
+#div42 {
+    color: rgb(70, 79, 203);
+}
+
+#div5 {
+    width: 250px;
+    display: flex;
+    justify-content: space-between;
+}
+
+#rockbutton {
+    height: 35px;
+    width: 75px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: rgb(70, 79, 203);
+}
+
+#paperbutton {
+    height: 35px;
+    width: 75px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: rgb(70, 79, 203);
+}
+
+#scissorsbutton {
+    height: 35px;
+    width: 75px;
+    border-radius: 5px;
+    color: white;
+    border: none;
+    background-color: rgb(70, 79, 203);
+}
+
+#resetbutton {
+    height: 35px;
+    width: 75px;
+    border-radius: 5px;
+    color: rgb(70, 79, 203);
+    border-color: rgb(70, 79, 203);
+    background-color: white;
+}
+
+#text {
+    color: rgb(70, 79, 203);
+}
